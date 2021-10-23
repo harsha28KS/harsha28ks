@@ -4,13 +4,18 @@
 🌱 I am a Final year Computer Science Engineering student at Sri Siddhartha Institute of Technology. <br/>
 👀 I have a keen interest in Web Development and familiar with technologies like 
 <ul> 
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Js</li>
-  <li>React.Js</li>
-  <li>Vue.Js</li>
-  <li>Bootstrap</li>
-  <li>React Bootstrap</li>
+  <li>Mark-up Languages - HTML, CSS.</li>
+  <li>Programming Languages - Js <!--, Python.--></li>
+  <li>Js Libraries - React Js, Vue Js.</li>
+  <li>Frameworks - Bootstrap, React Bootstrap. </li>
+<!-- 
+• Js Runtime Environment - Node Js.
+• Node Js Framework - Express Js.
+• Document Object Model (DOM) Manipulation.
+• RESTful API.
+• Responsive Web Design (RWD).
+• Version Control - Git.
+-->
 </ul> 
 🔭 I’m currently working as a Full-Stack Web Dev Intern @ ShapeAI. <br/>
 📫 You can reach me via email: harsha28sathish@gmail.com 
