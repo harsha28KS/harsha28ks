@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Harsha KS <br/>
 🌱 I am a Final year Computer Science Engineering student at Sri Siddhartha Institute of Technology. <br/>
-👀 I have a keen interest in Web Development and familiar with technologies like HTML, CSS, Js, React.Js, Vue.Js, Bootstrap, React Bootstrap. <br/>
+👀 I have a keen interest in Web Development and familiar with technologies like <ul> <li>HTML</li> <li>CSS</li> <li>Js</li> <li></li> <li>React.Js</li> <li>Vue.Js</li><li>Bootstrap</li><li>React Bootstrap</li></ul> <br/>
 🔭 I’m currently working as a Full-Stack Web Dev Intern @ ShapeAI. <br/>
 📫 You can reach me via email: harsha28sathish@gmail.com 
 
