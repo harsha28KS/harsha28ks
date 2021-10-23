@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👋 Hi, I’m Harsha KS <br/>
-🌱 I am a Final year Computer Science Engineering student at Sri Siddhartha Institute of Technology. <br/>
-👀 I have a keen interest in Web Development and familiar with technologies like 
+👋  Hi, I’m Harsha KS <br/>
+🌱  I am a Final year Computer Science Engineering student at Sri Siddhartha Institute of Technology. <br/>
+👀  I have a keen interest in Web Development and familiar with technologies like 
 <ul> 
   <li>Mark-up Languages - HTML, CSS.</li>
   <li>Programming Languages - Js <!--, Python.--></li>
@@ -17,8 +17,8 @@
 • Version Control - Git.
 -->
 </ul> 
-🔭 I’m currently working as a Full-Stack Web Dev Intern @ ShapeAI. <br/>
-📫 You can reach me via email: harsha28sathish@gmail.com 
+🔭  I’m currently working as a Full-Stack Web Dev Intern @ ShapeAI. <br/>
+📫  You can reach me via email: harsha28sathish@gmail.com 
 
 <!--
 **harsha28KS/harsha28ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
